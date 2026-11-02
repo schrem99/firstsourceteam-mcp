@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "firstsourceteam": {
+      "type": "http",
+      "url": "https://firstsourceteam.com/api/mcp"
+    }
+  }
+}

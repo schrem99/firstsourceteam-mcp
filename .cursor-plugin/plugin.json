@@ -1,0 +1,20 @@
+{
+  "name": "firstsourceteam",
+  "version": "1.0.0",
+  "description": "Ask your AI assistant about your FirstSourceTeam outplacement program: participant funnel, launch groups, trends, benchmarks, costs, invoices and plans. Read-only, aggregate figures only, never participant names.",
+  "author": {
+    "name": "FirstSourceTeam",
+    "email": "hello@firstsourceteam.com"
+  },
+  "homepage": "https://firstsourceteam.com/docs/integrations/ai-assistants",
+  "repository": "https://github.com/schrem99/firstsourceteam-mcp",
+  "license": "MIT",
+  "keywords": [
+    "outplacement",
+    "hr",
+    "people-ops",
+    "reporting",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}

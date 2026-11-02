@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.firstsourceteam/portal",
+  "title": "FirstSourceTeam",
+  "description": "Read-only outplacement program figures for FirstSourceTeam employer customers. Aggregates only.",
+  "version": "1.0.0",
+  "websiteUrl": "https://firstsourceteam.com/docs/integrations/ai-assistants",
+  "repository": { "url": "https://github.com/schrem99/firstsourceteam-mcp", "source": "github" },
+  "remotes": [
+    { "type": "streamable-http", "url": "https://firstsourceteam.com/api/mcp" }
+  ]
+}

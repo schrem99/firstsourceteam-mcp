@@ -1,0 +1,17 @@
+{
+  "name": "firstsourceteam",
+  "owner": {
+    "name": "FirstSourceTeam",
+    "email": "hello@firstsourceteam.com"
+  },
+  "metadata": {
+    "description": "FirstSourceTeam plugins for Claude Code: read-only outplacement program reporting for employer HR teams."
+  },
+  "plugins": [
+    {
+      "name": "firstsourceteam",
+      "source": "./",
+      "description": "Ask your AI assistant about your FirstSourceTeam outplacement program: participant funnel, launch groups, trends, benchmarks, costs, invoices and plans. Read-only, aggregate figures only, never participant names."
+    }
+  ]
+}
